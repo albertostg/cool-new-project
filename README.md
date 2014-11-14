@@ -1,4 +1,4 @@
 cool-new-project
 ================
 
-his is my cool new project - check it out
+This is my cool new project - check it out
